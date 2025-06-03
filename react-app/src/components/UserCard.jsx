@@ -14,14 +14,15 @@ const UserCard = ({ user }) => {
 
   return (
     <tr className={flash ? "bg-yellow-100 transition-colors duration-300" : ""}>
+      <td className="border px-4 py-2">{user.id}</td>
       <td className="border px-4 py-2">{user.name}</td>
       <td className="border px-4 py-2">{user.phone}</td>
       <td className="border px-4 py-2">{user.email}</td>
       <td className="border px-4 py-2">{user.role}</td>
 
-      <td className="border px-4 py-2 text-xs text-gray-500">
+      {/* <td className="border px-4 py-2 text-xs text-gray-500">
         Render: {renderCount.current}
-      </td>
+      </td> */}
     </tr>
   );
 };
@@ -40,4 +41,4 @@ UserCard.propTypes = {
   }).isRequired,
 };
 
-export default memo(UserCard);
+export default UserCard;
