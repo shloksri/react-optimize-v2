@@ -15,7 +15,7 @@ scaler = load("model/scaler.pkl")
 def suggest_optimization(data):
     df = pd.DataFrame(data)
     df["isMemoized"] = df["isMemoized"].apply(lambda val: True if val in [True, "True", "true"] else False).astype(int)
-
+    print(df)
     X = df[["actualDuration", "renderTime", "stateUpdates", "propsReceived", "propsUsed", "isMemoized"]]
     X_scaled = scaler.transform(X)
     preds = model.predict(X_scaled)

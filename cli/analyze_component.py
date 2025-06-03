@@ -24,9 +24,9 @@ def analyze_component(filepath):
     # --- Build AI input object ---
     component_info = {
         "component": component_name,
-        "actualDuration": 0.5,     # Assumed default
-        "renderTime": 20.0,        # Assumed default
-        "stateUpdates": 2,         # Assumed default
+        "actualDuration": 0.3,
+        "renderTime": 12.0,
+        "stateUpdates": 0,
         "propsReceived": props_received,
         "propsUsed": props_used,
         "isMemoized": is_memoized

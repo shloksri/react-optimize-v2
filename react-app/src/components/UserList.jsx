@@ -34,7 +34,8 @@ const UserList = () => {
             <th className="border px-4 py-2">Phone</th>
             <th className="border px-4 py-2">Email</th>
             <th className="border px-4 py-2">Role</th>
-            <th className="border px-4 py-2">Renders</th>
+            <th className="border px-4 py-2">Online Status</th>
+            {/* <th className="border px-4 py-2">Renders</th> */}
           </tr>
         </thead>
         <tbody>
