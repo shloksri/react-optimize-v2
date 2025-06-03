@@ -198,5 +198,306 @@
     "propsUsed": 8,
     "isMemoized": false,
     "label": 1
+  },
+
+  {
+    "component": "Component1",
+    "actualDuration": 0.72,
+    "renderTime": 29.68,
+    "stateUpdates": 1,
+    "propsReceived": 9,
+    "propsUsed": 7,
+    "isMemoized": false,
+    "label": 1
+  },
+  {
+    "component": "Component2",
+    "actualDuration": 1.02,
+    "renderTime": 28.06,
+    "stateUpdates": 0,
+    "propsReceived": 9,
+    "propsUsed": 6,
+    "isMemoized": true,
+    "label": 0
+  },
+  {
+    "component": "Component3",
+    "actualDuration": 1.2,
+    "renderTime": 16.99,
+    "stateUpdates": 1,
+    "propsReceived": 9,
+    "propsUsed": 9,
+    "isMemoized": false,
+    "label": 1
+  },
+  {
+    "component": "Component4",
+    "actualDuration": 0.89,
+    "renderTime": 19.54,
+    "stateUpdates": 2,
+    "propsReceived": 9,
+    "propsUsed": 9,
+    "isMemoized": true,
+    "label": 0
+  },
+  {
+    "component": "Component5",
+    "actualDuration": 0.21,
+    "renderTime": 14.5,
+    "stateUpdates": 0,
+    "propsReceived": 9,
+    "propsUsed": 7,
+    "isMemoized": true,
+    "label": 0
+  },
+  {
+    "component": "Component6",
+    "actualDuration": 0.25,
+    "renderTime": 22.7,
+    "stateUpdates": 0,
+    "propsReceived": 9,
+    "propsUsed": 9,
+    "isMemoized": true,
+    "label": 0
+  },
+  {
+    "component": "Component7",
+    "actualDuration": 0.55,
+    "renderTime": 27.41,
+    "stateUpdates": 2,
+    "propsReceived": 9,
+    "propsUsed": 9,
+    "isMemoized": false,
+    "label": 1
+  },
+  {
+    "component": "Component8",
+    "actualDuration": 0.92,
+    "renderTime": 12.3,
+    "stateUpdates": 2,
+    "propsReceived": 9,
+    "propsUsed": 5,
+    "isMemoized": false,
+    "label": 1
+  },
+  {
+    "component": "Component9",
+    "actualDuration": 0.89,
+    "renderTime": 11.33,
+    "stateUpdates": 3,
+    "propsReceived": 9,
+    "propsUsed": 6,
+    "isMemoized": false,
+    "label": 1
+  },
+  {
+    "component": "Component10",
+    "actualDuration": 0.39,
+    "renderTime": 25.56,
+    "stateUpdates": 2,
+    "propsReceived": 9,
+    "propsUsed": 9,
+    "isMemoized": true,
+    "label": 0
+  },
+  {
+    "component": "Component11",
+    "actualDuration": 0.84,
+    "renderTime": 26.82,
+    "stateUpdates": 0,
+    "propsReceived": 9,
+    "propsUsed": 9,
+    "isMemoized": false,
+    "label": 1
+  },
+  {
+    "component": "Component12",
+    "actualDuration": 0.84,
+    "renderTime": 20.55,
+    "stateUpdates": 0,
+    "propsReceived": 9,
+    "propsUsed": 9,
+    "isMemoized": true,
+    "label": 0
+  },
+  {
+    "component": "Component13",
+    "actualDuration": 0.68,
+    "renderTime": 23.91,
+    "stateUpdates": 1,
+    "propsReceived": 9,
+    "propsUsed": 6,
+    "isMemoized": true,
+    "label": 0
+  },
+  {
+    "component": "Component14",
+    "actualDuration": 0.78,
+    "renderTime": 22.1,
+    "stateUpdates": 2,
+    "propsReceived": 9,
+    "propsUsed": 8,
+    "isMemoized": false,
+    "label": 1
+  },
+  {
+    "component": "Component15",
+    "actualDuration": 1.1,
+    "renderTime": 10.69,
+    "stateUpdates": 0,
+    "propsReceived": 9,
+    "propsUsed": 7,
+    "isMemoized": false,
+    "label": 1
+  },
+  {
+    "component": "Component16",
+    "actualDuration": 0.3,
+    "renderTime": 26.64,
+    "stateUpdates": 1,
+    "propsReceived": 9,
+    "propsUsed": 8,
+    "isMemoized": false,
+    "label": 1
+  },
+  {
+    "component": "Component17",
+    "actualDuration": 0.78,
+    "renderTime": 20.22,
+    "stateUpdates": 1,
+    "propsReceived": 9,
+    "propsUsed": 7,
+    "isMemoized": false,
+    "label": 1
+  },
+  {
+    "component": "Component18",
+    "actualDuration": 0.27,
+    "renderTime": 11.47,
+    "stateUpdates": 1,
+    "propsReceived": 9,
+    "propsUsed": 9,
+    "isMemoized": false,
+    "label": 1
+  },
+  {
+    "component": "Component19",
+    "actualDuration": 0.76,
+    "renderTime": 14.87,
+    "stateUpdates": 0,
+    "propsReceived": 9,
+    "propsUsed": 6,
+    "isMemoized": false,
+    "label": 1
+  },
+  {
+    "component": "Component20",
+    "actualDuration": 0.7,
+    "renderTime": 27.78,
+    "stateUpdates": 3,
+    "propsReceived": 9,
+    "propsUsed": 5,
+    "isMemoized": true,
+    "label": 0
+  },
+  {
+    "component": "Component21",
+    "actualDuration": 0.62,
+    "renderTime": 10.44,
+    "stateUpdates": 3,
+    "propsReceived": 9,
+    "propsUsed": 6,
+    "isMemoized": true,
+    "label": 0
+  },
+  {
+    "component": "Component22",
+    "actualDuration": 1.14,
+    "renderTime": 17.08,
+    "stateUpdates": 0,
+    "propsReceived": 9,
+    "propsUsed": 7,
+    "isMemoized": false,
+    "label": 1
+  },
+  {
+    "component": "Component23",
+    "actualDuration": 0.37,
+    "renderTime": 12.23,
+    "stateUpdates": 1,
+    "propsReceived": 9,
+    "propsUsed": 6,
+    "isMemoized": false,
+    "label": 1
+  },
+  {
+    "component": "Component24",
+    "actualDuration": 0.6,
+    "renderTime": 29.22,
+    "stateUpdates": 2,
+    "propsReceived": 9,
+    "propsUsed": 7,
+    "isMemoized": true,
+    "label": 0
+  },
+  {
+    "component": "Component25",
+    "actualDuration": 0.96,
+    "renderTime": 21.95,
+    "stateUpdates": 0,
+    "propsReceived": 9,
+    "propsUsed": 6,
+    "isMemoized": false,
+    "label": 1
+  },
+  {
+    "component": "Component26",
+    "actualDuration": 0.24,
+    "renderTime": 21.4,
+    "stateUpdates": 2,
+    "propsReceived": 9,
+    "propsUsed": 6,
+    "isMemoized": false,
+    "label": 1
+  },
+  {
+    "component": "Component27",
+    "actualDuration": 1.14,
+    "renderTime": 16.96,
+    "stateUpdates": 2,
+    "propsReceived": 9,
+    "propsUsed": 7,
+    "isMemoized": false,
+    "label": 1
+  },
+  {
+    "component": "Component28",
+    "actualDuration": 0.29,
+    "renderTime": 24.52,
+    "stateUpdates": 0,
+    "propsReceived": 9,
+    "propsUsed": 9,
+    "isMemoized": false,
+    "label": 1
+  },
+  {
+    "component": "Component29",
+    "actualDuration": 1.0,
+    "renderTime": 20.31,
+    "stateUpdates": 3,
+    "propsReceived": 9,
+    "propsUsed": 7,
+    "isMemoized": true,
+    "label": 0
+  },
+  {
+    "component": "Component30",
+    "actualDuration": 0.55,
+    "renderTime": 22.04,
+    "stateUpdates": 0,
+    "propsReceived": 9,
+    "propsUsed": 8,
+    "isMemoized": false,
+    "label": 1
   }
 ]

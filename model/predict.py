@@ -22,6 +22,8 @@ for i, row in enumerate(df["component"]):
     if preds[i] == 1:
         if df["isMemoized"].iloc[i] == 1:
             print(f"⚠️  {row}: Memoization is present, but prop bloating detected. Consider reducing unused or unstable props.")
+        elif df["propsReceived"].iloc[i] == df["propsUsed"].iloc[i]:
+            print(f"⚠️  {row}: No prop bloating, but consider using React.memo for performance in large lists.")
         else:
             print(f"⚠️  {row}: Prop bloating detected. Suggest using React.memo.")
     else:
