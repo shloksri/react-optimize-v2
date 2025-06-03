@@ -1,0 +1,11 @@
+[
+  {
+    "component": "UserCard",
+    "actualDuration": 0.4,
+    "renderTime": 12.5,
+    "stateUpdates": 0,
+    "propsReceived": 9,
+    "propsUsed": 8,
+    "isMemoized": true
+  }
+]

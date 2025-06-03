@@ -1,0 +1,202 @@
+[
+  {
+    "component": "UserCard",
+    "actualDuration": 0.37,
+    "renderTime": 14.98,
+    "stateUpdates": 1,
+    "propsReceived": 9,
+    "propsUsed": 4,
+    "isMemoized": "False",
+    "label": 1
+  },
+  {
+    "component": "UserCard",
+    "actualDuration": 1.3,
+    "renderTime": 17.18,
+    "stateUpdates": 1,
+    "propsReceived": 9,
+    "propsUsed": 5,
+    "isMemoized": "False",
+    "label": 1
+  },
+  {
+    "component": "UserCard",
+    "actualDuration": 0.6,
+    "renderTime": 13.38,
+    "stateUpdates": 0,
+    "propsReceived": 9,
+    "propsUsed": 9,
+    "isMemoized": "False",
+    "label": 1
+  },
+  {
+    "component": "UserCard",
+    "actualDuration": 1.23,
+    "renderTime": 27.05,
+    "stateUpdates": 0,
+    "propsReceived": 9,
+    "propsUsed": 4,
+    "isMemoized": "False",
+    "label": 1
+  },
+  {
+    "component": "UserCard",
+    "actualDuration": 1,
+    "renderTime": 21.48,
+    "stateUpdates": 3,
+    "propsReceived": 9,
+    "propsUsed": 5,
+    "isMemoized": "False",
+    "label": 1
+  },
+  {
+    "component": "UserCard",
+    "actualDuration": 0.45,
+    "renderTime": 26.4,
+    "stateUpdates": 0,
+    "propsReceived": 9,
+    "propsUsed": 4,
+    "isMemoized": "False",
+    "label": 1
+  },
+  {
+    "component": "UserCard",
+    "actualDuration": 1.16,
+    "renderTime": 25.92,
+    "stateUpdates": 2,
+    "propsReceived": 9,
+    "propsUsed": 7,
+    "isMemoized": "True",
+    "label": 1
+  },
+  {
+    "component": "UserCard",
+    "actualDuration": 0.62,
+    "renderTime": 12.2,
+    "stateUpdates": 1,
+    "propsReceived": 9,
+    "propsUsed": 8,
+    "isMemoized": "True",
+    "label": 0
+  },
+  {
+    "component": "UserCard",
+    "actualDuration": 1.36,
+    "renderTime": 11.83,
+    "stateUpdates": 1,
+    "propsReceived": 9,
+    "propsUsed": 3,
+    "isMemoized": "False",
+    "label": 1
+  },
+  {
+    "component": "UserCard",
+    "actualDuration": 1.2,
+    "renderTime": 25.63,
+    "stateUpdates": 2,
+    "propsReceived": 9,
+    "propsUsed": 9,
+    "isMemoized": "True",
+    "label": 1
+  },
+  {
+    "component": "UserCard",
+    "actualDuration": 1.46,
+    "renderTime": 16.48,
+    "stateUpdates": 1,
+    "propsReceived": 9,
+    "propsUsed": 4,
+    "isMemoized": "False",
+    "label": 1
+  },
+  {
+    "component": "UserCard",
+    "actualDuration": 0.68,
+    "renderTime": 25.21,
+    "stateUpdates": 2,
+    "propsReceived": 9,
+    "propsUsed": 3,
+    "isMemoized": "False",
+    "label": 1
+  },
+  {
+    "component": "UserCard",
+    "actualDuration": 1.27,
+    "renderTime": 18.9,
+    "stateUpdates": 0,
+    "propsReceived": 9,
+    "propsUsed": 9,
+    "isMemoized": "False",
+    "label": 1
+  },
+  {
+    "component": "UserCard",
+    "actualDuration": 1.5,
+    "renderTime": 10.26,
+    "stateUpdates": 3,
+    "propsReceived": 9,
+    "propsUsed": 8,
+    "isMemoized": "True",
+    "label": 1
+  },
+  {
+    "component": "UserCard",
+    "actualDuration": 0.36,
+    "renderTime": 26.87,
+    "stateUpdates": 1,
+    "propsReceived": 9,
+    "propsUsed": 9,
+    "isMemoized": "False",
+    "label": 1
+  },
+  {
+    "component": "UserCard",
+    "actualDuration": 0.86,
+    "renderTime": 18.36,
+    "stateUpdates": 3,
+    "propsReceived": 9,
+    "propsUsed": 9,
+    "isMemoized": "True",
+    "label": 1
+  },
+  {
+    "component": "UserCard",
+    "actualDuration": 0.41,
+    "renderTime": 16.26,
+    "stateUpdates": 2,
+    "propsReceived": 9,
+    "propsUsed": 5,
+    "isMemoized": "False",
+    "label": 1
+  },
+  {
+    "component": "UserCard",
+    "actualDuration": 1.38,
+    "renderTime": 24.77,
+    "stateUpdates": 1,
+    "propsReceived": 9,
+    "propsUsed": 3,
+    "isMemoized": "False",
+    "label": 1
+  },
+  {
+    "component": "UserCard",
+    "actualDuration": 0.51,
+    "renderTime": 18.29,
+    "stateUpdates": 0,
+    "propsReceived": 9,
+    "propsUsed": 7,
+    "isMemoized": "True",
+    "label": 0
+  },
+  {
+    "component": "UserCard",
+    "actualDuration": 0.54,
+    "renderTime": 24.73,
+    "stateUpdates": 3,
+    "propsReceived": 9,
+    "propsUsed": 8,
+    "isMemoized": "True",
+    "label": 1
+  }
+]
