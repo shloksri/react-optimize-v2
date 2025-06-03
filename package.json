@@ -1,0 +1,17 @@
+{
+  "name": "react-optimize-v2",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shlok Srivastava",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@babel/parser": "^7.27.4",
+    "@babel/traverse": "^7.27.4",
+    "@tailwindcss/vite": "^4.1.8",
+    "prop-types": "^15.8.1",
+    "tailwindcss": "^4.1.8"
+  }
+}
