@@ -8,7 +8,7 @@
     "department": "Marketing",
     "permissions": "Write",
     "lastLogin": "2024-06-13 14:59",
-    "isOnline": false
+    "isOnline": true
   },
   {
     "id": 2,
@@ -19,7 +19,7 @@
     "department": "Engineering",
     "permissions": "Write",
     "lastLogin": "2024-06-14 14:40",
-    "isOnline": true
+    "isOnline": false
   },
   {
     "id": 3,
@@ -74,7 +74,7 @@
     "department": "Engineering",
     "permissions": "Read",
     "lastLogin": "2024-06-28 14:15",
-    "isOnline": true
+    "isOnline": false
   },
   {
     "id": 8,

@@ -1,32 +1,14 @@
-import { useRef, useEffect, useState, memo } from "react";
+// eslint-disable-next-line no-unused-vars
+import { memo } from "react";
 import PropTypes from "prop-types";
 
 const UserCard = ({ user }) => {
-  const renderCount = useRef(0);
-  const [flash, setFlash] = useState(false);
-  renderCount.current += 1;
-
-  useEffect(() => {
-    setFlash(true);
-    const timeout = setTimeout(() => setFlash(false), 300);
-    return () => clearTimeout(timeout);
-  }, [user]);
-
   return (
-    <tr className={flash ? "bg-yellow-100 transition-colors duration-300" : ""}>
-      <td className="border px-4 py-2">{user.id}</td>
-      <td className="border px-4 py-2">{user.name}</td>
-      <td className="border px-4 py-2">{user.phone}</td>
-      <td className="border px-4 py-2">{user.email}</td>
-      <td className="border px-4 py-2">{user.isOnline ? "🟢" : "🔴"}</td>
-      <td className="border px-4 py-2">{user.role}</td>
-      <td className="border px-4 py-2">{user.department}</td>
-      <td className="border px-4 py-2">{user.permissions}</td>
-      <td className="border px-4 py-2">{user.lastLogin}</td>
-
-      {/* <td className="border px-4 py-2 text-xs text-gray-500">
-        Render: {renderCount.current}
-      </td> */}
+    <tr>
+      <td className="border px-2 py-4 w-0.5">{user.id}</td>
+      <td className="border px-2 py-4">{user.name}</td>
+      <td className="border px-2 py-4">{user.email}</td>
+      <td className="border px-2 py-4">{user.role}</td>
     </tr>
   );
 };
@@ -45,4 +27,4 @@ UserCard.propTypes = {
   }).isRequired,
 };
 
-export default memo(UserCard);
+export default UserCard;
