@@ -1,5 +1,3 @@
-// eslint-disable-next-line no-unused-vars
-import { memo } from "react";
 import PropTypes from "prop-types";
 
 const UserCard = ({ user }) => {
